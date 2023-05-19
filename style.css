@@ -9,7 +9,6 @@
 .success{
     color:#54e6af;
     display: none;
-    margin-left: -190px;
     margin-top: 5px;
     
 }
@@ -17,7 +16,6 @@
 .error{
     display:none;
     color:#FB3E3E;
-    margin-left: -170px;
     margin-top: 5px;
 }
 
@@ -272,6 +270,13 @@ input{
         display: block;
         margin-left: 40px;
     }
+    .success{
+        margin-left: -190px;
+    }
+
+    .error{
+        margin-left: -170px;
+    }
    
 
     
@@ -317,6 +322,13 @@ input{
     .bg-pattern{
         transform: translate(510%,-80%);
         display: block;
+    }
+    .success{
+        margin-left: -190px;
+    }
+
+    .error{
+        margin-left: -170px;
     }
 
 
