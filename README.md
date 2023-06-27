@@ -16,4 +16,5 @@ Users should be able to:
 
 All the required assets for this project are in the `/assets` folder. The assets are already exported for the correct screen size and optimized. Some images are reusable at multiple screen sizes. So if you don't see an image in a specific folder, it will typically be in another folder for that page.
 
-#Screenshot
+# Screenshot
+![gaqhj5z5pdvyztzm8mwt](https://github.com/aniabaishvili/pod-access-landing-page/assets/110342939/cbe695db-794a-43ca-b60f-19c8ff06253b)
